@@ -17,6 +17,23 @@ Files herein:
 
 * `Fragalysis_targets.ipynb`: the notebook
 * `targets_df.p` (and it's exports `targets.csv` and `targets.md`) is a pickled `pandas.DataFrame`
-* `targets_blast.p` a `List[Bio.Blast.Record.Alignment]`
+* `targets_blast.p` a `Dict[str, Bio.Blast.Record.Alignment]`
 * `targets.fasta` the seqs as they are in Fragalysis
 * `targets_mol.p` the mol data as in Fragalysis
+
+## Potential improvements
+
+Some entries lack sequences. This is because they predate when
+Rachael implemented the sequence in the API.
+
+The taking of the first hit in the blast search is a poor choice —i.e. chimp
+The `Bio.Blast.Record.Alignment` instances in 
+`targets_blast.p` have an attribute `.hsps`, which is a `List[Bio.Blast.Record.Hsp]`.
+The first couple may have close scores...
+
+The Uniprot XML schema is byzanthine thing. The JSON conversions are likewise confusing.
+I have missed a lot of juicy things.
+
+I stored in some cells of the `pandas.DataFrame` values as tuples, which was a mistake.
+I thought that `.fillna(tuple())` was okay but it is as unwelcome as `.fillna(list())`.
+But majorly, these do no export well, but I am not a fan of pipe seperated fields.
