@@ -3,6 +3,14 @@ An small crosstabulation of what the public Fragalysis targets are.
 
 > [Go to table](targets.md)
 
+## Nota Bene
+The target names may differ from Uniprot preferred name because:
+
+* The target names in Fragalysis may end in an 'A', this is a SGC/CMD thing and is how protein are stored in Scarab
+* The protein/gene goes by multiple names —this is normal
+* The target may be a viral protein expressed as a single polyprotein chain that is cleaved by a protease
+* The target may be know as the domain
+
 ## Rationale
 As of November 22 the targets in [Fragalysis](https://fragalysis.diamond.ac.uk/) do not bear protein metadata.
 This is an attempt at rectifying it.
