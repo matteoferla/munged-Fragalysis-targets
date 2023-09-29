@@ -1,0 +1,50 @@
+Id,Code,Number of chains,Primary chain,Uniprot,Range,Protein name,Gene name,Species,Species id,Domain,Ec number,N hits,Date last edit,Version id
+54,EPB41L3A,1,A,Q9Y2J2,108-390,Band 4.1-like protein 3,EPB41L3,Homo sapiens,9606,FERM,,0,0001-01-01T00:00:00,0.0
+35,HAO1A,1,A,Q9UJM8,7-362,2-Hydroxyacid oxidase 1,HAO1,Homo sapiens,9606,FMN hydroxy acid dehydrogenase,1.1.3.15,0,0001-01-01T00:00:00,0.0
+39,NUDT4,1,A,Q5RAF0,10-146,Diphosphoinositol polyphosphate phosphohydrolase 2,NUDT4,Homo sapiens,9601,Nudix hydrolase,3.6.1.52,0,0001-01-01T00:00:00,0.0
+47,STAG1A,1,A,Q8WVM7,459-911,Cohesin subunit SA-1,STAG1,Homo sapiens,9606,,,0,0001-01-01T00:00:00,0.0
+12,MURD,1,A,Q3K2P4,5-451,UDP-N-acetylmuramoylalanine--D-glutamate ligase,murD,Streptococcus agalactiae 2603V/R,205921,,6.3.2.9,0,0001-01-01T00:00:00,0.0
+76,NSP16,1,A,P0DTD1,6799-7096,Replicase polyprotein 1ab,rep,Severe acute respiratory syndrome coronavirus 2,2697049,Nidovirus-type SAM-dependent 2'-O-MTase,,0,0001-01-01T00:00:00,0.0
+71,PGN_RS02895PGA,1,A,B2RID1,23-720,Asp/Glu-specific dipeptidyl-peptidase,dpp11,Porphyromonas gingivalis ATCC 33277,431947,,3.4.14.-,0,0001-01-01T00:00:00,0.0
+69,NSP15_B,1,A,unknown,0-0,,,unknown,-1,,,0,0001-01-01T00:00:00,0.0
+66,nsp13,1,A,unknown,0-0,,,unknown,-1,,,0,0001-01-01T00:00:00,0.0
+8,FAM83BA,1,A,Q5T0W9,119-286,Protein FAM83B,FAM83B,Homo sapiens,9606,,,0,0001-01-01T00:00:00,0.0
+53,ALAS2A,1,,unknown,0-0,,,unknown,-1,,,0,0001-01-01T00:00:00,0.0
+84,NCS1,1,A,P62166,6-184,Neuronal calcium sensor 1,NCS1,Mus musculus,9606,"EF-hand 1, EF-hand 2, EF-hand 3, EF-hand 4",,0,0001-01-01T00:00:00,0.0
+37,MUREECA,2,F,P22188,5-495,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",murE,Escherichia coli K-12,83333,,6.3.2.13,0,0001-01-01T00:00:00,0.0
+29,ATAD2A,1,A,Q6PL18,981-1108,ATPase family AAA domain-containing protein 2,ATAD2,Homo sapiens,9606,Bromo,3.6.1.-,0,0001-01-01T00:00:00,0.0
+22,SMTGR,1,A,Q16881,59-641,"Thioredoxin reductase 1, cytoplasmic",TXNRD1,Homo sapiens,9606,Glutaredoxin,1.8.1.9,0,0001-01-01T00:00:00,0.0
+50,VIM2,1,A,C7C422,47-265,Metallo-beta-lactamase type 2,blaNDM-1,Klebsiella pneumoniae,573,,3.5.2.6,0,0001-01-01T00:00:00,0.0
+17,OXA10OTA,1,A,P14489,20-264,Beta-lactamase OXA-10,bla,Pseudomonas aeruginosa,287,,3.5.2.6,0,0001-01-01T00:00:00,0.0
+74,Nprot,1,A,P0DTC9,250-364,Nucleoprotein,N,Severe acute respiratory syndrome coronavirus 2,2697049,CoV N CTD,,0,0001-01-01T00:00:00,0.0
+28,ACVR1A,1,A,unknown,0-0,,,unknown,-1,,,0,0001-01-01T00:00:00,0.0
+18,PARP14A,1,A,Q460N5,1208-1388,Protein mono-ADP-ribosyltransferase PARP14,PARP14,Homo sapiens,9606,Macro 3,2.4.2.-,0,0001-01-01T00:00:00,0.0
+41,NUDT7A_CRUDE,1,A,P0C024,15-209,Peroxisomal coenzyme A diphosphatase NUDT7,NUDT7,Homo sapiens,9606,Nudix hydrolase,3.6.1.-,0,0001-01-01T00:00:00,0.0
+51,XX02KALRNA,1,A,P15153,1-177,Ras-related C3 botulinum toxin substrate 2,RAC2,Homo sapiens,9606,,,0,0001-01-01T00:00:00,0.0
+30,CAMK1DA,1,A,Q8IU85,13-302,Calcium/calmodulin-dependent protein kinase type 1D,CAMK1D,Homo sapiens,9606,Protein kinase,2.7.11.17,0,0001-01-01T00:00:00,0.0
+4,ATAD,1,A,Q6PL18,981-1108,ATPase family AAA domain-containing protein 2,ATAD2,Homo sapiens,9606,Bromo,3.6.1.-,0,0001-01-01T00:00:00,0.0
+7,DCP2B,1,A,Q8IU60,97-244,m7GpppN-mRNA hydrolase,DCP2,Homo sapiens,9606,Nudix hydrolase,3.6.1.62,0,0001-01-01T00:00:00,0.0
+5,BRD1A,1,A,O95696,555-674,Bromodomain-containing protein 1,BRD1,Homo sapiens,9606,Bromo,,0,0001-01-01T00:00:00,0.0
+79,SOS3ATA,1,A,O81223,15-206,Calcineurin B-like protein 4,CBL4,Arabidopsis thaliana,3702,"EF-hand 1, EF-hand 2, EF-hand 3, EF-hand 4",,0,0001-01-01T00:00:00,0.0
+61,mArh,1,A,P0DTC1,1028-1191,Replicase polyprotein 1a,,Severe acute respiratory syndrome coronavirus 2,2697049,Macro 1,,0,0001-01-01T00:00:00,0.0
+48,TBXTA,1,A,O15178,42-211,T-box transcription factor T,TBXT,Homo sapiens,9606,,,0,0001-01-01T00:00:00,0.0
+2,NUDT7A,1,A,P0C024,15-209,Peroxisomal coenzyme A diphosphatase NUDT7,NUDT7,Homo sapiens,9606,Nudix hydrolase,3.6.1.-,0,0001-01-01T00:00:00,0.0
+75,macro-combi,1,A,P0DTC1,1028-1190,Replicase polyprotein 1a,,Severe acute respiratory syndrome coronavirus 2,2697049,Macro 1,,0,0001-01-01T00:00:00,0.0
+32,FALZA,1,A,Q12830,2920-3037,Nucleosome-remodeling factor subunit BPTF,BPTF,Homo sapiens,9606,Bromo,,0,0001-01-01T00:00:00,0.0
+77,NSP14,1,A,unknown,0-0,,,unknown,-1,,,0,0001-01-01T00:00:00,0.0
+72,CD44MMA,1,A,P16070,21-168,CD44 antigen,CD44,Homo sapiens,9606,Link,,0,0001-01-01T00:00:00,0.0
+52,TNCA,1,A,P24821,1980-2194,Tenascin,TNC,Homo sapiens,9606,Fibrinogen C-terminal,,0,0001-01-01T00:00:00,0.0
+46,smTGRNEW,1,A,Q16881,59-641,"Thioredoxin reductase 1, cytoplasmic",TXNRD1,Homo sapiens,9606,Glutaredoxin,1.8.1.9,0,0001-01-01T00:00:00,0.0
+20,PTP1B,1,A,P18031,1-281,Tyrosine-protein phosphatase non-receptor type 1,PTPN1,Homo sapiens,9606,Tyrosine-protein phosphatase,3.1.3.48,0,0001-01-01T00:00:00,0.0
+15,NUDT4A,1,A,Q5RAF0,10-146,Diphosphoinositol polyphosphate phosphohydrolase 2,NUDT4,Homo sapiens,9601,Nudix hydrolase,3.6.1.52,0,0001-01-01T00:00:00,0.0
+68,Mpro,1,A,P0DTC1,3264-3567,Replicase polyprotein 1a,,Severe acute respiratory syndrome coronavirus 2,2697049,Peptidase C30,,0,0001-01-01T00:00:00,0.0
+78,MID2A,1,A,Q9UJV3,532-710,Probable E3 ubiquitin-protein ligase MID2,MID2,Homo sapiens,9606,B30.2/SPRY,2.3.2.27,0,0001-01-01T00:00:00,0.0
+81,D68EV3CPROA,1,A,Q68T42,1549-1729,Genome polyprotein,,enterovirus D68,42789,Peptidase C3,,0,0001-01-01T00:00:00,0.0
+70,MUREECOLI,1,A,unknown,0-0,,,unknown,-1,,,0,0001-01-01T00:00:00,0.0
+38,NUDT21A,1,A,O43809,33-227,Cleavage and polyadenylation specificity factor subunit 5,NUDT21,Pongo abelii,9606,Nudix hydrolase,,0,0001-01-01T00:00:00,0.0
+67,Mac1,1,A,P0DTC1,1028-1191,Replicase polyprotein 1a,,Severe acute respiratory syndrome coronavirus 2,2697049,Macro 1,,0,0001-01-01T00:00:00,0.0
+31,DCLRE1AA,1,A,Q6PJP8,701-1040,DNA cross-link repair 1A protein,DCLRE1A,Homo sapiens,9606,,,0,0001-01-01T00:00:00,0.0
+82,XX01ZVNS2B,1,A,Q32ZE1,1419-1456,Genome polyprotein,,Zika virus,64320,,,0,0001-01-01T00:00:00,0.0
+65,INPP5DA,1,A,Q92835,399-857,"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 1",INPP5D,Homo sapiens,9606,,3.1.3.86,0,0001-01-01T00:00:00,0.0
+40,NUDT5A,3,B,Q9UKK9,15-208,ADP-sugar pyrophosphatase,NUDT5,Homo sapiens,9606,Nudix hydrolase,3.6.1.13,0,0001-01-01T00:00:00,0.0
+19,PHIPA,1,A,unknown,0-0,,,unknown,-1,,,0,0001-01-01T00:00:00,0.0
